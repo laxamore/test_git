@@ -1,5 +1,6 @@
 function register() {
   ini fungsi register;
+  menambahkan register dengan google;
   register menggunakan facebook;
   verifikasi register menggunakan otp;
 }
