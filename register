@@ -1,3 +1,4 @@
 function register() {
   ini fungsi register;
+  register menggunakan facebook;
 }
